@@ -53,3 +53,28 @@ nav ul {
     width: 20%;
     border-radius: 15px;
 }
+#productive-user{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    padding: 5%;
+    margin: 4% 12%;
+}
+#productive-user h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+.big-text-container{
+    display: flex;
+    justify-content:space-around;
+}
+.big-text-container p{
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+.big-text{
+    color: #4E47FF;
+    font-size: 75px;
+    font-family: sans-serif;
+    margin: 0;
+}
