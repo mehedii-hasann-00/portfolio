@@ -78,3 +78,35 @@ nav ul {
     font-family: sans-serif;
     margin: 0;
 }
+#review{
+    padding: 5%;
+    margin: 4% 12%;
+}
+#review h1{
+    text-align: center;
+}
+.review-container{
+    display: flex;
+    justify-content: space-between;
+}
+.review-container-part{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 2%;
+    margin: 1%;
+    background-color:whitesmoke;
+}
+
+.user-pic{
+    display: flex;
+}
+.user-pic div{
+    margin: 0% 8%;
+}
+.user-pic img{
+    border-radius: 50px;
+    height: 80px;
+}
+.date{
+    opacity: 50%;
+}
