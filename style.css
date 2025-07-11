@@ -90,11 +90,11 @@ nav ul {
     justify-content: space-between;
 }
 .review-container-part{
-    border: 1px solid gray;
     border-radius: 5px;
     padding: 2%;
     margin: 1%;
     background-color:whitesmoke;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .user-pic{
@@ -123,6 +123,7 @@ nav ul {
 #newsletter input{
     padding: 2%;
     width: 70%;
+    border-radius: 7px;
 }
 #newsletter button{
     width: 75%;
@@ -153,4 +154,8 @@ h2{
 }
 h1{
     font-family: sans-serif;
+}
+
+textarea{
+    border-radius: 7px;
 }
